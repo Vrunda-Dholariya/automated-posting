@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "results": [
+    {
+      "platform": "Bluesky",
+      "status": "success",
+      "posted_url": "https://bsky.app/profile/did:plc:qqxdyhse2ansqap3om7rwi2b/post/3n2lkheghya2f",
+      "public_access": true,
+      "date": "2026-11-18",
+      "time": "12:25:20",
+      "error": null
+    },
+    {
+      "platform": "Dev.to",
+      "status": "success",
+      "posted_url": "https://dev.to/vrunda_dholariya/testing-my-posting-api-jem",
+      "public_access": true,
+      "date": "2026-11-18",
+      "time": "12:25:18",
+      "error": null
+    },
+    {
+      "platform": "Mastodon",
+      "status": "success",
+      "posted_url": "https://mastodon.social/@vrunda/117637429180758843",
+      "public_access": true,
+      "date": "2026-11-18",
+      "time": "12:25:19",
+      "error": null
+    },
+    {
+      "platform": "Telegram",
+      "status": "success",
+      "posted_url": "https://t.me/vrunda_posting_test/5",
+      "public_access": true,
+      "date": "2026-11-18",
+      "time": "12:25:20",
+      "error": null
+    },
+    {
+      "platform": "GitHub Gist",
+      "status": "success",
+      "posted_url": "https://gist.github.com/Vrunda-Dholariya/8dae4ad8ed790a27501a22e320bf8d75",
+      "public_access": true,
+      "date": "2026-11-18",
+      "time": "12:25:19",
+      "error": null
+    }
+  ]
+}
